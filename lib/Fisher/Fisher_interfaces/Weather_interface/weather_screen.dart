@@ -11,8 +11,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  final WeatherService _weatherServgit add .
-  ice = WeatherService();
+  final WeatherService _weatherService = WeatherService();
   Map<String, dynamic>? currentWeather;
   List<dynamic>? fiveDayForecast;
   bool isLoading = true;
