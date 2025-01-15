@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # omegaproject
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Omega
+Omega connects fishers, sellers, and buyers. Fishers can find fishing spots using weather data, sell their catch, and use a map for navigation. Sellers can trade fishing tools and seafood. Visitors can browse and buy seafood. Omega simplifies fishing, trading, and seafood discovery in one platform.
+>>>>>>> 32b1fcebbf68fe2147a87be7ee1234b8fe4665d0
